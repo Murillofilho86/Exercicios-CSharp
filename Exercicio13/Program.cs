@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 //e imprima na tela os valores em ordem decrescente. 
 namespace Exercicio13
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
