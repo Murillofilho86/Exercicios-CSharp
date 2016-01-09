@@ -1,0 +1,5 @@
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio10\obj\Debug\Exercicio10.pdb

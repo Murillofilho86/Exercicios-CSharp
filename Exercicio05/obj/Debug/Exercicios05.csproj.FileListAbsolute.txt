@@ -1,0 +1,5 @@
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicios05\bin\Debug\Exercicios05.exe.config
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicios05\bin\Debug\Exercicios05.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicios05\bin\Debug\Exercicios05.pdb
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicios05\obj\Debug\Exercicios05.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicios05\obj\Debug\Exercicios05.pdb

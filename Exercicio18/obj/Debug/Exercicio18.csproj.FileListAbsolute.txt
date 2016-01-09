@@ -1,0 +1,6 @@
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio18\bin\Debug\Exercicio18.exe.config
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio18\obj\Debug\Exercicio18.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio18\bin\Debug\Exercicio18.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio18\bin\Debug\Exercicio18.pdb
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio18\obj\Debug\Exercicio18.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio18\obj\Debug\Exercicio18.pdb

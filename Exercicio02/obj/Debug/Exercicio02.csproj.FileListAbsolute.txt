@@ -1,0 +1,12 @@
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicio02\bin\Debug\Exercicio02.exe.config
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicio02\obj\Debug\Exercicio02.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Coti - Webdeveloper C#\Material de Estudo\Exercicios\Logica\ExerciciosLogica\Exercicio02\obj\Debug\Exercicio02.pdb
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio02\bin\Debug\Exercicio02.exe.config
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio02\bin\Debug\Exercicio02.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio02\bin\Debug\Exercicio02.pdb
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio02\obj\Debug\Exercicio02.csprojResolveAssemblyReference.cache
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio02\obj\Debug\Exercicio02.exe
+C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio02\obj\Debug\Exercicio02.pdb
