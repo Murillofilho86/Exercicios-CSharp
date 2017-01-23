@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Escreva um programa que leia um número inteiro e exiba o seu módulo. 
 //O módulo de um número x é: 
@@ -15,19 +11,19 @@ namespace Exercicio12
     {
         static void Main(string[] args)
         {
-            int numero;
+            int numero, modulo;
 
-            Console.WriteLine("Informe um valor: ");
+            Console.WriteLine("Informe um valor: " );
             numero = Int32.Parse(Console.ReadLine());
 
             if (numero >= 0)
             {
-                Console.WriteLine("Valor informado: " + numero);
+                Console.WriteLine("Valor informado: " + numero + ", por ser positivo, não possui modulo!");
             }
             else
             {
-                numero = numero * (-1);
-                Console.WriteLine("Valor informado: " + numero);
+                modulo = numero * (-1);
+                Console.WriteLine("O modulo de " +numero+" é: " + modulo);
             }
             Console.ReadKey();
         }

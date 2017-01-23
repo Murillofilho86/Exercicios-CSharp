@@ -4,3 +4,9 @@ C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\obj\Debug\Exercicio09.csprojResolveAssemblyReference.cache
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\obj\Debug\Exercicio09.exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\obj\Debug\Exercicio09.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\bin\Debug\Exercicio09.exe.config
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\obj\Debug\Exercicio09.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\obj\Debug\Exercicio09.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\bin\Debug\Exercicio09.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\bin\Debug\Exercicio09.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio09\obj\Debug\Exercicio09.csprojResolveAssemblyReference.cache

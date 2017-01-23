@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Escreva um programa que leia três valores para os lados de um triângulo (variáveis A, B e C). 
 //Verificar se cada lado é menor que a soma dos outros dois lados. Se sim, saber de A==B e se B==C, 

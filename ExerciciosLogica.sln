@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nivel 01 - Entrada, Processamento e Saida", "Nivel 01 - Entrada, Processamento e Saida", "{D80FA21A-8AB7-443F-9662-77E8C1E53E64}"
 EndProject
@@ -56,6 +56,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio22", "Exercicio22\Exercicio22.csproj", "{7BD0A8F3-2F37-4FE1-AC4B-A6D298BD9FCC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio23", "Exercicio23\Exercicio23.csproj", "{B544D32D-F9F4-44E3-8171-BE27695D47F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio24", "Exercicio24\Exercicio24.csproj", "{7DBEB04E-27FB-4A60-81AE-7921B73CE766}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{B544D32D-F9F4-44E3-8171-BE27695D47F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B544D32D-F9F4-44E3-8171-BE27695D47F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B544D32D-F9F4-44E3-8171-BE27695D47F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBEB04E-27FB-4A60-81AE-7921B73CE766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBEB04E-27FB-4A60-81AE-7921B73CE766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBEB04E-27FB-4A60-81AE-7921B73CE766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBEB04E-27FB-4A60-81AE-7921B73CE766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,5 +179,6 @@ Global
 		{BA42340C-EBFC-4556-8428-F760DC075A71} = {52FD21CC-300A-449B-99BC-98E294B9A484}
 		{7BD0A8F3-2F37-4FE1-AC4B-A6D298BD9FCC} = {52FD21CC-300A-449B-99BC-98E294B9A484}
 		{B544D32D-F9F4-44E3-8171-BE27695D47F6} = {9D0BB072-4E51-4728-A303-E28FDB4DCC3D}
+		{7DBEB04E-27FB-4A60-81AE-7921B73CE766} = {9D0BB072-4E51-4728-A303-E28FDB4DCC3D}
 	EndGlobalSection
 EndGlobal

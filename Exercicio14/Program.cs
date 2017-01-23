@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Escreva um programa que leia dois números 
 //e apresente a diferença do maior para o menor. 
@@ -13,7 +9,7 @@ namespace Exercicio14
         
         static void Main(string[] args)
         {
-            int valor1, valor2;
+            int valor1, valor2, diferenca;
 
             Console.WriteLine("Informe um valor: ");
             valor1 = Int32.Parse(Console.ReadLine());
@@ -27,14 +23,14 @@ namespace Exercicio14
 
                 if (valor1 %2 == 0)
                 {
-                    Console.WriteLine("E " + valor1 + " é par");
+                    Console.WriteLine("e " + valor1 + " é par");
                 }
                 else
                 {
-                    Console.WriteLine("E " + valor1 + " é impar");
+                    Console.WriteLine("e " + valor1 + " é impar");
                 }
 
-                
+              
             }
             else
             {
@@ -49,6 +45,17 @@ namespace Exercicio14
                     Console.WriteLine("E " + valor2 + " é impar");
                 }
             }
+
+            if (valor1 > valor2)
+            {
+                diferenca = valor1 - valor2;
+            }
+            else
+            {
+                diferenca = valor2 - valor1;
+            }
+
+            Console.WriteLine("A diferença de valor é: " + diferenca);
 
             Console.ReadKey();
         }

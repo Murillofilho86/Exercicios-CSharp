@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 //10) Escrever um programa que leia dois números inteiros e 
@@ -15,7 +11,34 @@ namespace Exercicio10
     {
         static void Main(string[] args)
         {
+            int num1, num2, suporte;
 
+            Console.WriteLine("Informe o primeiro numero: ");
+            num1 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("Informe o segundo numero: ");
+            num2 = Int32.Parse(Console.ReadLine());
+
+            Console.WriteLine("-------------------------------");
+
+            if (num1 > num2)
+            {
+                Console.WriteLine(num1 + " maior que " + num2);
+            }
+            else if (num1 < num2)
+            {
+                Console.WriteLine(num1 + " menor que " + num2);
+            }
+            else if (num1 == num2)
+            {
+                Console.WriteLine(num1 + " é igual " + num2);
+            }
+            else if (num1 != num2)
+            {
+                Console.WriteLine(num1 + " diferente de " + num2);
+            }
+
+            Console.ReadKey();
         }
     }
 }

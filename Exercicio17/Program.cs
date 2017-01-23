@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Escreva um programa que leia um número inteiro. 
 //Verificar por meio de condição se o valor fornecido 

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //11) Ler dois valores inteiros para as variáveis A e B, 
 //efetuar a troca dos valores de modo que a variável A 
@@ -15,7 +11,7 @@ namespace Exercicio11
     {
         static void Main(string[] args)
         {
-            int a, b, reserva;
+            int a, b, suporte;
 
             Console.WriteLine("Informe um valor para A: ");
             a = Int32.Parse(Console.ReadLine());
@@ -23,9 +19,9 @@ namespace Exercicio11
             Console.WriteLine("Informe o valor para B: ");
             b = Int32.Parse(Console.ReadLine());
 
-            reserva = a;
+            suporte = a;
             a = b;
-            b = reserva;
+            b = suporte;
 
             Console.WriteLine("O valor atual de A: " + a);
             Console.WriteLine("O valor atual de B: " + b);

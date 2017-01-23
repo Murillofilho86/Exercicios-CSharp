@@ -4,3 +4,9 @@ C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\obj\Debug\Exercicio22.csprojResolveAssemblyReference.cache
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\obj\Debug\Exercicio22.exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\obj\Debug\Exercicio22.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\bin\Debug\Exercicio22.exe.config
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\obj\Debug\Exercicio22.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\obj\Debug\Exercicio22.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\bin\Debug\Exercicio22.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\bin\Debug\Exercicio22.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio22\obj\Debug\Exercicio22.csprojResolveAssemblyReference.cache

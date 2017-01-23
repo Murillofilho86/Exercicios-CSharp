@@ -4,3 +4,12 @@ C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.csprojResolveAssemblyReference.cache
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\bin\Debug\Exercicio13.exe.config
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.csprojResolveAssemblyReference.cache
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\bin\Debug\Exercicio13.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\bin\Debug\Exercicio13.pdb
+D:\Murillo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\bin\Debug\Exercicio13.exe.config
+D:\Murillo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.exe
+D:\Murillo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio13\obj\Debug\Exercicio13.pdb

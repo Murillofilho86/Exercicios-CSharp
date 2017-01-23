@@ -8,3 +8,8 @@ C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\obj\Debug\Exercicio08.pdb
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\bin\Debug\Exercicio08.exe
 C:\Users\Murilo\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\bin\Debug\Exercicio08.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\bin\Debug\Exercicio08.exe.config
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\bin\Debug\Exercicio08.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\bin\Debug\Exercicio08.pdb
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\obj\Debug\Exercicio08.exe
+C:\Users\muril\OneDrive\Programação\C#\Exercicios\Logica\ExerciciosLogica\Exercicio08\obj\Debug\Exercicio08.pdb

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 // Escreva um programa que leia quatro notas escolares de um aluno 
 //e apresentar uma mensagem que o aluno foi aprovado se o valor da média 

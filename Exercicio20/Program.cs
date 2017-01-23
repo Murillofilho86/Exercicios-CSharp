@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Escrever um programa declarando três variáveis do tipo inteiro (a, b e c). 
 //Ler um valor maior que zero para cada variável (se o valor digitado não é válido, 

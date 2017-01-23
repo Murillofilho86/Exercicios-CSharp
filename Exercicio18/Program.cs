@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 //Escreva um programa que leia um número inteiro (variável CODIGO).
 //Verificar se o código é igual a 1, igual a 2 ou igual a 3. Caso não seja, 
