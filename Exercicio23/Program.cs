@@ -44,7 +44,9 @@ namespace Exercicio23
                     divisao = num1/num2;
                     Console.WriteLine(divisao);
                     break;
-
+                default:
+                    Console.WriteLine("Opção invalida");
+                    break;
             }
             Console.ReadKey();
 
